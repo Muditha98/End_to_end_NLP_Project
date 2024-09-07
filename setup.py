@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-name = 'textSummarization',
+name = 'textSummarizer',
 version = '0.0.1',
 author = 'Muditha',
 author_email = 'dhananjanarathnayake123@gmail.com',
